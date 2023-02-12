@@ -9,7 +9,9 @@ export default function FooterComp() {
                                 <a href="index.html" class="navbar-brand">
                                     <h1 class="m-0 text-uppercase text-white"><i class="fa fa-birthday-cake fs-1 text-dark me-3"></i>After Dessert</h1>
                                 </a>
-                                <p class="mt-3">Lorem diam sit erat dolor elitr et, diam lorem justo labore amet clita labore stet eos magna sit. Elitr dolor eirmod duo tempor lorem, elitr clita ipsum sea. Nonumy rebum et takimata ea takimata amet gubergren, erat rebum magna lorem stet eos. Diam amet et kasd eos duo dolore no.</p>
+                                <p class="mt-3">Affordable Tasty Dessert</p>
+                                <p>Konsep dessert yang lezat dengan harga terjangkau sehingga cocok untuk semua kalangan, cita rasa rumahan yang hangat dan berkesan. Menu Dessert cup ada 5 varian rasa : choco.oreo, choco.regal, choco. Strowberry. Choco Custard, Custard Strowberry.</p>
+                                <p>Dessert Chips ada 4 varian rasa : Whitey Chips, Choco Chips, Pinky Chips, BlackPink Chips. Berdiri pada tanggal 5 janurai 2023 dengan pendiri 3 anggota</p>
                             </div>
                         </div>
                         <div class="col-lg-8 col-md-6">
