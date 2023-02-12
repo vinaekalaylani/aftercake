@@ -7,7 +7,7 @@ export default function TestimonialComp() {
                     <h1 className="display-4 text-uppercase">Our Clients Say!!!</h1>
                 </div>
                 <div className="owl-carousel testimonial-carousel">
-                    <div className="testimonial-item bg-dark text-white border-inner p-4">
+                    <div className="testimonial-item bg-dark text-white border-inner p-4 mb-2">
                         <div className="d-flex align-items-center mb-3">
                             <img className="img-fluid flex-shrink-0" src="styles/img/testimonial-1.jpg" style={{ width: "60px", height: "60px" }} />
                             <div className="ps-3">
@@ -18,7 +18,7 @@ export default function TestimonialComp() {
                         <p className="mb-0">Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
                         </p>
                     </div>
-                    <div className="testimonial-item bg-dark text-white border-inner p-4">
+                    <div className="testimonial-item bg-dark text-white border-inner p-4 mb-2">
                         <div className="d-flex align-items-center mb-3">
                             <img className="img-fluid flex-shrink-0" src="styles/img/testimonial-2.jpg" style={{ width: "60px", height: "60px" }} />
                             <div className="ps-3">
@@ -29,7 +29,7 @@ export default function TestimonialComp() {
                         <p className="mb-0">Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
                         </p>
                     </div>
-                    <div className="testimonial-item bg-dark text-white border-inner p-4">
+                    <div className="testimonial-item bg-dark text-white border-inner p-4 mb-2">
                         <div className="d-flex align-items-center mb-3">
                             <img className="img-fluid flex-shrink-0" src="styles/img/testimonial-3.jpg" style={{ width: "60px", height: "60px" }} />
                             <div className="ps-3">
@@ -40,7 +40,7 @@ export default function TestimonialComp() {
                         <p className="mb-0">Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
                         </p>
                     </div>
-                    <div className="testimonial-item bg-dark text-white border-inner p-4">
+                    <div className="testimonial-item bg-dark text-white border-inner p-4 mb-2">
                         <div className="d-flex align-items-center mb-3">
                             <img className="img-fluid flex-shrink-0" src="styles/img/testimonial-4.jpg" style={{ width: "60px", height: "60px" }} />
                             <div className="ps-3">

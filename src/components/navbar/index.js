@@ -11,7 +11,7 @@ export default function NavbarComp() {
                 <div className="navbar-nav ms-auto mx-lg-auto py-0">
                     <a href="index.html" className="nav-item nav-link active">Home</a>
                     <a href="about.html" className="nav-item nav-link">About Us</a>
-                    <a href="menu.html" className="nav-item nav-link">Menu & Pricing</a>
+                    <a href="menu.html" className="nav-item nav-link">Desserts & Chips</a>
                     <a href="contact.html" className="nav-item nav-link">Contact Us</a>
                 </div>
             </div>
