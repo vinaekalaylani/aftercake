@@ -8,9 +8,14 @@ export default function AboutComp() {
                 </div>
                 <div className="row gx-5">
                     <h4 className="mb-4 text-center">Our dessert is small but with a big love for wonderful desserts.</h4>
-                    <div className="col-lg-5 mb-5 mx-auto mb-lg-0" style={{ minHeight: "400px" }}>
+                    <div className="col-lg-6 mb-5 mx-auto mb-lg-0" style={{ minHeight: "400px" }}>
                         <div className="position-relative h-100">
-                            <img className="position-absolute w-100 h-100" src="styles/img/about.jpg" style={{ objectFit: "cover" }} />
+                            <img className="position-absolute w-100 h-100" src="styles/img/d4.jpg" style={{ objectFit: "cover" }} />
+                        </div>
+                    </div>
+                    <div className="col-lg-6 mb-5 mx-auto mb-lg-0" style={{ minHeight: "400px" }}>
+                        <div className="position-relative h-100">
+                            <img className="position-absolute w-100 h-100" src="styles/img/c1.jpg" style={{ objectFit: "cover" }} />
                         </div>
                     </div>
                 </div>

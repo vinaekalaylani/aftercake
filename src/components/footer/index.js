@@ -62,7 +62,7 @@ export default function FooterComp() {
             </div>
             <div class="container-fluid text-secondary py-4" style={{background:"#111111"}}>
                 <div class="container text-center">
-                    <p class="mb-0">Powered System By <a class="text-white border-bottom">vinas.project</a></p>
+                    <p class="mb-0">Powered System By <a class="text-white border-bottom">the.projects</a></p>
                 </div>
             </div>
         </>
