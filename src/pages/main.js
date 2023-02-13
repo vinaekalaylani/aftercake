@@ -15,9 +15,7 @@ export default function MainLayout() {
             <NavbarComp />
             <HeroComp />
             <AboutComp />
-            <ProductComp />
             <ServiceComp/>
-            <TestimonialComp/>
             <ContactComp/>
             <FooterComp/>
             {/*  Back to Top  */}
